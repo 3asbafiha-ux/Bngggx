@@ -5,3 +5,4 @@ pyjwt
 protobuf
 urllib3
 gunicorn
+protobuf_decoder
